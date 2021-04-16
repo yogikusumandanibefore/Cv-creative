@@ -1,0 +1,63 @@
+:root{
+    --mainColor: #152028;
+    --secondaryColor: #192734;
+
+    --borderColor: #164d56;
+
+    --main-Text: #fff;
+    --secondaryText: #eeeeee;
+
+    --themeDotBorder: #164d56;
+
+    --previewBg: rgb(25, 39, 52, 0.8);
+    --previewShadow: #111921;
+
+    --buttonColor: #42caa3;
+}
+
+.fa-yammer{
+    color: #fff;
+}
+
+.left-column h5{
+    color: #070f15;
+}
+
+a{
+    text-decoration: none;
+    color: #42caa3;
+    font-weight: bold;
+}
+
+/* Dots Start */
+#dot-1{
+	background-color:  #FC6058;
+}
+
+#dot-2{
+	background-color:  #FEC02F;
+}
+
+#dot-3{
+	background-color:  #2ACA3E;
+}
+/* Dots End */
+
+/* preview start */
+#preview{
+    border: 1.5px solid #aac8d6;
+}
+/* preview End */
+
+.post-preview{
+    background-color: #42caa3;
+}
+
+.post-preview a{
+    color: black;
+}
+
+.contact-more-wrapper #follow p{
+    color: #fff;
+}
+
